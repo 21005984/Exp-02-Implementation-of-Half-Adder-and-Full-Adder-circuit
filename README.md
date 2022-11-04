@@ -63,21 +63,39 @@ endmodule
 ```
 ### Output:
 Logic symbol & Truthtable
+
 HALF ADDER
+
 ![output](./de1.png)
+
 FULL ADDER
+
 ![output](./de2.png)
+
 ### RTL
+
 HALF ADDER
+
 ![output](./de3.png)
+
 FULL ADDER
+
 ![output](./de4.png)
+
 ### TIMING DIAGRAM
+
 HALF ADDER
+
 ![output](./de5.png)
+
 FULL ADDER
+
 ![output](./de6.png)
+
 ### TRUTH TABLE 
+
 ![output](./de7.png)
+
 ### Result:
+
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
